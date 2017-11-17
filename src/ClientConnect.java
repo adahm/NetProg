@@ -39,5 +39,4 @@ public class ClientConnect {
         }
     }
 
-    //fixa så att out put vi får kanske gör en outputhandler interface så att det blir observer pattern.
 }
