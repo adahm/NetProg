@@ -66,14 +66,6 @@ public class HangHandler extends Thread {
         }catch (IOException error){
             error.printStackTrace();
         }
-     //skapa nytt objekt sätt poängen till föregånde
-        // Få input gissnin
-    //Om mer än 1 bokstav gissat ord annars gissat bokstav
-        // Kolla om löst öka poäng då
-        //minska kvaravrande försök
-        //om inga försök kvar sänk poäng
-        //skicka medelande till uppdaterad status till client
-        //om gameover vänta på ny start
 
 
 
