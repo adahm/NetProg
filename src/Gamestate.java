@@ -79,11 +79,5 @@ public class Gamestate {
     }
 
 
-    //Gör char array med _ för bokstav och " " imellan
-    //testa guess om hitta rätta ord och byt ut _ mot bokstaven
-    //testa sen om ordet är löst
-    //Gör en get String för output till användaren där allt skickas
-    //Gör metoder för att updatera score
-    //gör metod för att testa om ord som gisat är rätt.
 
 }
